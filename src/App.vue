@@ -1,13 +1,17 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import Horario from './components/Horario.vue';
+import Horario6bs from './components/horario6bs.vue';
+import Pruebas from './components/Pruebas.vue';
 import Recorrido from './components/recorrido.vue';
 import Recorrido2 from './components/recorrido2.vue';
 import Recorrido3 from './components/recorrido3.vue';
 </script>
 
 <template>
-<Horario/>
+     <!-- <Pruebas/> -->
+<!-- <Horario/> -->
+ <Horario6bs/>
 
 
 
