@@ -1,13 +1,14 @@
 <script setup>
-import Eventos from './components/Eventos/Eventos.vue';
-import EventosEjercicio from './components/Eventos/EventosEjercicio.vue';
+
+
+import Padre from './components/PropsEjemplo/Padre.vue';
 
 
 </script>
 
 <template>
-<!-- <Eventos /> -->
- <EventosEjercicio />
+
+<Padre/>
 
 </template>
 
