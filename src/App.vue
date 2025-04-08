@@ -1,14 +1,16 @@
 <script setup>
 
-
-import Padre from './components/PropsEjemplo/Padre.vue';
-
-
+import CalculadoraV1 from './components/Calculadora/CalculadoraV1.vue';
+import CalculadoraV2 from './components/Calculadora/CalculadoraV2.vue';
 </script>
 
 <template>
+ 
 
-<Padre/>
+<!-- <CalculadoraV1/> -->
+
+
+<CalculadoraV2/>
 
 </template>
 
